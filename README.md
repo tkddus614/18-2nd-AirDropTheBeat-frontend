@@ -31,5 +31,6 @@
 `HTML`, `JavaScript(ES6+)`, `React`,`React Hooks`, `SCSS`, `Styled-component`
 
 ## 에어비앤비 카카오 로그인
-카카오톡 소셜로그인.gif![image](https://user-images.githubusercontent.com/73007012/118388956-5d1a7f80-b662-11eb-87e6-6ab8bac39ba4.png)
+![에어비앤비 카카오 깃헙](https://user-images.githubusercontent.com/73007012/118389091-3d378b80-b663-11eb-85cd-4438658606c6.gif)
+
 
